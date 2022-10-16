@@ -162,7 +162,7 @@ main {
       rgba(255, 255, 255, 0.767),
       rgba(255, 255, 255, 0.726)
     ),
-    url(tech3.jpeg);
+    url(tech01.jpg);
   transition: all 3s;
 }
 .coding:hover {
