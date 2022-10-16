@@ -68,7 +68,7 @@ body {
 
 nav {
   grid-area: nav;
-  background-color: #00b4d8;
+  /*background-color: #00b4d8;*/
   background: linear-gradient(to bottom, #0096c7, #0077b6, #48cae4);
 }
 
@@ -154,8 +154,8 @@ aside {
 }
 
 .my-projects-java {
-  background: linear-gradient(to bottom, #73dbf0, #359fd8, #0096c7);
   background: linear-gradient(to bottom, #686969, #1e1f20, #020202);
+  background: linear-gradient(to bottom, #73dbf0, #359fd8, #0096c7);
 }
 
 h2 {

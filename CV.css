@@ -160,9 +160,9 @@ main {
 .coding {
   background-image: linear-gradient(
       rgba(255, 255, 255, 0.767),
-      rgba(36, 18, 18, 0.726)
+      rgba(255, 255, 255, 0.726)
     ),
-    url(tech01.jpg);
+    url(tech6.jpeg);
   transition: all 3s;
 }
 .coding:hover {
